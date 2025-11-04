@@ -166,7 +166,7 @@ class ResumeScorer:
             color = "#991b1b"
         
         return {
-            'probability': probability,
+            'pr,
             'combined_score': round(combined_score, 2),
             'color': color
         }
